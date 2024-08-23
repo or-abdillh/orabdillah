@@ -1,9 +1,4 @@
-<script setup lang="ts">
-// set title page 'Home'
-useHead({
-  title: "Home",
-});
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <NuxtLayout name="base"></NuxtLayout>

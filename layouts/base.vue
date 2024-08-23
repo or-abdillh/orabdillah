@@ -29,6 +29,34 @@ useHead({
       sizes="180x180"
       href="/images/favicons/apple-touch-icon.png"
     />
+
+    <!-- Primary Meta Tags -->
+    <Meta
+      name="description"
+      content="Full-stack developer fluent in Vue, Nuxt, Express, and TypeScript, crafting digital solutions with precision and passion"
+    />
+
+    <!-- Open Graph / Facebook -->
+    <Meta property="og:type" content="website" />
+    <Meta property="og:url" content="https://orabdillah.id/" />
+    <Meta property="og:title" content="Oka Rajeb Abdillah" />
+    <Meta
+      property="og:description"
+      content="Full-stack developer fluent in Vue, Nuxt, Express, and TypeScript, crafting digital solutions with precision and passion"
+    />
+    <Meta property="og:image" content="/images/banner.png" />
+
+    <!-- Twitter -->
+    <Meta property="twitter:card" content="summary_large_image" />
+    <Meta property="twitter:url" content="https://orabdillah.id/" />
+    <Meta property="twitter:title" content="Oka Rajeb Abdillah" />
+    <Meta
+      property="twitter:description"
+      content="Full-stack developer fluent in Vue, Nuxt, Express, and TypeScript, crafting digital solutions with precision and passion"
+    />
+    <Meta property="twitter:image" content="/images/banner.png" />
+
+    <!-- Meta Tags Generated with https://metatags.io -->
   </Head>
   <slot />
 </template>
