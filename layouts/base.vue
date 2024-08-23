@@ -44,7 +44,10 @@ useHead({
       property="og:description"
       content="Full-stack developer fluent in Vue, Nuxt, Express, and TypeScript, crafting digital solutions with precision and passion"
     />
-    <Meta property="og:image" content="/images/banner.png" />
+    <Meta
+      property="og:image"
+      content="https://res.cloudinary.com/diundang-digital/image/upload/v1724399949/akxpnmejhrgkli9mtuwv.png"
+    />
 
     <!-- Twitter -->
     <Meta property="twitter:card" content="summary_large_image" />
@@ -54,7 +57,10 @@ useHead({
       property="twitter:description"
       content="Full-stack developer fluent in Vue, Nuxt, Express, and TypeScript, crafting digital solutions with precision and passion"
     />
-    <Meta property="twitter:image" content="/images/banner.png" />
+    <Meta
+      property="twitter:image"
+      content="https://res.cloudinary.com/diundang-digital/image/upload/v1724399949/akxpnmejhrgkli9mtuwv.png"
+    />
 
     <!-- Meta Tags Generated with https://metatags.io -->
   </Head>
